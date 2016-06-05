@@ -1,2 +1,2 @@
-# shifonecui.github.com
-shifone cc
+# shifonegit.github.com
+jquery api
